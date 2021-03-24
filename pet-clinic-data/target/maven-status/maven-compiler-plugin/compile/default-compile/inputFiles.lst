@@ -1,5 +1,14 @@
-G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\model\Person.java
-G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\model\PetType.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\services\VetService.java
 G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\model\Owner.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\services\map\PetServiceMap.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\services\OwnerService.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\model\BaseEntity.java
 G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\model\Vet.java
 G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\model\Pet.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\services\map\VetServiceMap.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\model\Person.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\services\map\AbstractMapService.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\model\PetType.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\services\map\OwnerServiceMap.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\services\CrudService.java
+G:\CS\Java\Spring Framework 5_Beginner to Guru\pet-clinic\pet-clinic-data\src\main\java\yan\petclinic\services\PetService.java

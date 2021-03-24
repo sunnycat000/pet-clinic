@@ -1,5 +1,14 @@
+yan\petclinic\services\map\VetServiceMap.class
+yan\petclinic\services\VetService.class
+yan\petclinic\services\PetService.class
+yan\petclinic\model\Owner.class
 yan\petclinic\model\PetType.class
+yan\petclinic\model\BaseEntity.class
+yan\petclinic\services\map\OwnerServiceMap.class
+yan\petclinic\services\CrudService.class
+yan\petclinic\services\map\PetServiceMap.class
+yan\petclinic\services\OwnerService.class
 yan\petclinic\model\Pet.class
+yan\petclinic\services\map\AbstractMapService.class
 yan\petclinic\model\Vet.class
 yan\petclinic\model\Person.class
-yan\petclinic\model\Owner.class

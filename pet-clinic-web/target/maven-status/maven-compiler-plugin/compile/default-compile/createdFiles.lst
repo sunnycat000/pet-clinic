@@ -1,1 +1,5 @@
+yan\petclinic\controllers\IndexController.class
+yan\petclinic\controllers\OwnerController.class
 yan\petclinic\PetClinicApplication.class
+yan\petclinic\controllers\VetController.class
+yan\petclinic\bootstrap\DataLoader.class
